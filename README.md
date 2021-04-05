@@ -1,0 +1,1 @@
+# elasticsearch-image-debugger
